@@ -22,7 +22,7 @@ Portal spins up a temporary web server on your local network, generates a QR cod
 ### Installation
 1.  Clone this repo:
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/portal.git](https://github.com/YOUR_USERNAME/portal.git)
+    git clone [https://github.com/Nightteye/portal.git](https://github.com/Nightteye/portal.git)
     cd portal
     ```
 2.  Install the QR library:
